@@ -8,5 +8,7 @@ PROJECT_BIN="$SCRIPT_DIR/nb/bin"
 export PATH="$PROJECT_BIN:$PATH"
 echo "finished adding $PROJECT_BIN to the top of your path"
 echo "\n"
-echo "---"
+echo "your new PATH ordering is\n"
+echo $PATH | sed 's/:/:\n/g'
 
+echo "\n"
