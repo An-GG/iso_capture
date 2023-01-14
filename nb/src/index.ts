@@ -2,14 +2,14 @@
 import getStdin from "get-stdin";
 
 
-async function fetch_iso_content(platform_id: 'twitter' : 'instagram', link: string) {
-    if (platform_id == 'twitter')       { } else 
+async function fetch_iso_content(platform_id: 'twitter' | 'instagram', link: string) {
+    if (platform_id == 'twitter')       { console.log("link: " + link); } else 
     if (platform_id == 'instagram')     { } else
     { process.exit(1); }
 }
 
 async function main() {
-    fetch_iso_content();
+    fetch_iso_content("twitter", "test");
 }
 
 main()

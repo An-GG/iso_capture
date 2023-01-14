@@ -41,7 +41,7 @@ to
 ```sh
 $ /u/user: git clone https://github.com/An-GG/iso_capture.git
 $ /u/user: cd iso_capture
-$ /u/user/iso_capture: ./setup_env.sh
+$ /u/user/iso_capture: source ./setup_env.sh
 $ /u/user/iso_capture: cd nb/src
 $ /u/user/iso_capture/nb/src: vim index.ts
 
