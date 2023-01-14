@@ -21,3 +21,7 @@ Fetch All (associated?) Image and ISO Content
 
 ## Support
 All major platforms.
+
+## Spec
+
+[View Design Spec](https://raw.githubusercontent.com/An-GG/iso_capture/main/design_spec.md)
