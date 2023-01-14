@@ -24,4 +24,13 @@ All major platforms.
 
 ## Spec
 
-[View Design Spec](https://raw.githubusercontent.com/An-GG/iso_capture/main/design_spec.md)
+[View Design Spec](https://raw.githubusercontent.com/An-GG/iso_capture/main/SPEC.md)
+
+##### there exists
+
+```
+$ life
+```
+![exists](http://cs.utexas.edu/~angg/there_exists.png)
+to 
+# enjoy
