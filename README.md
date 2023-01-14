@@ -17,6 +17,7 @@ Fetch All (associated?) Image and ISO Content
     - is NPC or PC (non-playable) or (playable)
 - options
     - get metadata or do not get metadata
+    - output ordering for namespace
 
 ## Support
 All major platforms.
