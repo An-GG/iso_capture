@@ -2,6 +2,7 @@
 
 ## you just want to use the local typescript compiler in the node modules folder
 SCRIPT_DIR="$(pwd)"
+echo "fyi: run this from the folder called iso_capture. run pwd to check"
 echo "guessing PROJECT ROOT: $(pwd)"
 
 PROJECT_BIN="$SCRIPT_DIR/nb/bin"
