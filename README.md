@@ -14,7 +14,7 @@ Fetch All (associated?) Image and ISO Content
 - filter by
     - is retweet
     - is reply
-    - is NPC or PC (non-playable) or (playable)
+    - is NPC or PC (non-playable content) or (playable content)
 - options
     - get metadata or do not get metadata
     - output ordering for namespace
