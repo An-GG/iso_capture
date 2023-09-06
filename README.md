@@ -38,6 +38,10 @@ to
 
 ## Getting Started Guide
 
+
+> yea so this code is giving me brain damage at this point so henceforth this is purely to be consulted as a religious document
+<br><br>
+
 ```sh
 $ /u/user: git clone https://github.com/An-GG/iso_capture.git
 $ /u/user: cd iso_capture
